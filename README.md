@@ -1,12 +1,10 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code.jpg)](https://linkedin.com/in/akshayzala)
 <h1 align="center">Hi 👋, I'm Akshay Zala</h1>
-<h3 align="center">MEAN Stack Symphony: Crafting Harmonious Web Solutions 🎵</h3>
+<h3 align="center">Full Stack Symphony: Crafting Harmonious Web Solutions 🎵</h3>
 
 <img align="right" alt="https://linkedin.com/in/akshayzala" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayzala8866&label=Profile%20views&color=0e75b6&style=flat" alt="akshayzala8866" /> </p>
-
-- 💬 Ask me about **- MongoDB queries and data modeling - Angular development - Node.js and Express.js - Problem-solving in web development**
+- 💬 Ask me about **- NodeJs & ExpressJs and NestJs - MongoDB queries and Data modeling - Angular development - Problem-solving in web development**
 
 - 📫 How to reach me **zalaakshay8866@gmail.com**
 
